@@ -19,4 +19,5 @@ public class StringUtil {
             throw new RuntimeException(e);
         }
     }
+
 }
